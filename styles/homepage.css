@@ -1,3 +1,11 @@
+body{
+    margin: 0px;
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    font-size: 16px;
+}
+
 /*navigation bar*/
 .container{
     width: 80%;
