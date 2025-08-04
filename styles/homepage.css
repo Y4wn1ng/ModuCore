@@ -5,7 +5,7 @@
 }
 
 header{
-    background: #F5F5DC;
+    background: #84714B;
     display: flex;
     justify-content: space-between; /* aligns logo and nav items */
     align-items: right; /* centers vertically */
@@ -49,7 +49,7 @@ nav a::before{
     position: absolute;
     top: 0;
     width: 0%;
-    background-color:#84714B;
+    background-color:#B5651D;
     transition: all ease-in-out 250ms;
 }
 
