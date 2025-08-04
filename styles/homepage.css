@@ -5,7 +5,7 @@
 }
 
 header{
-    background: #e7e2d7;
+    background: #eeedeb;
     display: flex;
     justify-content: space-between; /* aligns logo and nav items */
     align-items: right; /* centers towards right */
