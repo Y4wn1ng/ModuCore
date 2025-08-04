@@ -39,7 +39,7 @@ nav a{
 }
 
 nav a:hover{
-    color: orange; 
+    color: #f1efeb; 
 }
 
 nav a::before{
@@ -50,7 +50,7 @@ nav a::before{
     position: absolute;
     top: 0;
     width: 0%;
-    background-color:rgb(10, 209, 223);
+    background-color:#84714B;
     transition: all ease-in-out 250ms;
 }
 
